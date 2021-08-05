@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4392" started-at="2021-08-04T18:26:40 IST" finished-at="2021-08-04T18:26:45 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4392" started-at="2021-08-04T18:26:40 IST" finished-at="2021-08-04T18:26:45 IST">
+      <class name="T1.WebShopRegister">
+        <test-method status="PASS" signature="browser()[pri:0, instance:T1.WebShopRegister@2c039ac6]" name="browser" is-config="true" duration-ms="2653" started-at="2021-08-04T18:26:38 IST" finished-at="2021-08-04T18:26:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="url()[pri:0, instance:T1.WebShopRegister@2c039ac6]" name="url" is-config="true" duration-ms="2571" started-at="2021-08-04T18:26:40 IST" finished-at="2021-08-04T18:26:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method status="PASS" signature="getcookies()[pri:0, instance:T1.WebShopRegister@2c039ac6]" name="getcookies" is-config="true" duration-ms="1" started-at="2021-08-04T18:26:43 IST" finished-at="2021-08-04T18:26:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getcookies -->
+        <test-method status="PASS" signature="register()[pri:0, instance:T1.WebShopRegister@2c039ac6]" name="register" duration-ms="1482" started-at="2021-08-04T18:26:43 IST" finished-at="2021-08-04T18:26:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="CaptureScreenshot()[pri:0, instance:T1.WebShopRegister@2c039ac6]" name="CaptureScreenshot" is-config="true" duration-ms="305" started-at="2021-08-04T18:26:45 IST" finished-at="2021-08-04T18:26:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureScreenshot -->
+        <test-method status="PASS" signature="cookies()[pri:0, instance:T1.WebShopRegister@2c039ac6]" name="cookies" is-config="true" duration-ms="0" started-at="2021-08-04T18:26:45 IST" finished-at="2021-08-04T18:26:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookies -->
+        <test-method status="PASS" signature="close()[pri:0, instance:T1.WebShopRegister@2c039ac6]" name="close" is-config="true" duration-ms="0" started-at="2021-08-04T18:26:45 IST" finished-at="2021-08-04T18:26:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- T1.WebShopRegister -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
